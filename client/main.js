@@ -1,1 +1,3 @@
-Meteor.subscribe('posts');
+<template name="loading">
+  {{>spinner}}
+</template>
